@@ -5,3 +5,4 @@ console.log(`n1: ${n1}`)
 console.log(`n2: ${n2}`)
 console.log(`n3: ${n3}`)
 console.log(`n3: ${typeof(n3)}`)
+
